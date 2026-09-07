@@ -87,3 +87,14 @@ Para a execução da solução em nuvem, foi realizada uma comparação de custo
 A região Leste dos EUA (N. da Virgínia) apresentou o menor custo, com uma economia estimada de US$ 7,25 por mês em relação à região de São Paulo, aproximadamente 41,7%.
 
 Com base na análise de custos, a região N. da Virgínia apresenta a alternativa mais econômica para o cenário avaliado.
+
+### Justificativa da escolha da região
+
+Embora a região Leste dos EUA (N. da Virgínia) apresente o menor custo mensal, para este projeto a região escolhida seria a América do Sul (São Paulo).
+
+A escolha de São Paulo se justifica pela necessidade de acesso rápido aos dados coletados pelos sensores da fazenda, reduzindo a latência por estar geograficamente mais próxima da origem dos dados. Além disso, considerando a existência de restrições legais para o armazenamento de dados no exterior, manter a infraestrutura na região de São Paulo permite que os dados permaneçam armazenados no Brasil.
+
+Portanto, mesmo apresentando um custo mensal superior, a região de São Paulo é a opção mais adequada para o cenário proposto, conciliando desempenho, menor latência e atendimento às restrições de armazenamento dos dados.
+
+<img width="1920" height="1080" alt="Captura AWS" src="https://github.com/user-attachments/assets/34f976ba-a222-4cc9-978b-36365c946c4d" />
+
