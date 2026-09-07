@@ -72,3 +72,18 @@ Curso: Tecnólogo em Inteligência Artificial
 ## 👤 Autor
 
 Willians Roberto da Silva
+
+## ☁️ Análise de custos na AWS
+
+Para a execução da solução em nuvem, foi realizada uma comparação de custos utilizando a AWS Pricing Calculator em duas regiões diferentes.
+
+### Comparação de custos
+
+| Região AWS | Custo mensal estimado |
+|---|---:|
+| América do Sul (São Paulo) | US$ 17,38 |
+| Leste dos EUA (N. da Virgínia) | US$ 10,13 |
+
+A região Leste dos EUA (N. da Virgínia) apresentou o menor custo, com uma economia estimada de US$ 7,25 por mês em relação à região de São Paulo, aproximadamente 41,7%.
+
+Com base na análise de custos, a região N. da Virgínia apresenta a alternativa mais econômica para o cenário avaliado.
