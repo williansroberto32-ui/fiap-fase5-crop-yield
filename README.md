@@ -98,3 +98,9 @@ Portanto, mesmo apresentando um custo mensal superior, a região de São Paulo �
 
 <img width="1920" height="1080" alt="Captura AWS" src="https://github.com/user-attachments/assets/34f976ba-a222-4cc9-978b-36365c946c4d" />
 
+
+## 🎥 Vídeo Demonstrativo – Entrega 1
+
+Vídeo demonstrativo da Entrega 1 – Machine Learning:
+
+[▶️ Assistir ao vídeo no YouTube](https://youtu.be/E4BoE-xwCW0)
