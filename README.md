@@ -1,5 +1,13 @@
 # FIAP Fase 5 - Previsão de Produtividade Agrícola com Machine Learning
 
+## 👥 Integrantes do Grupo
+
+- Maurício — RM571019
+- Fernando — RM569974
+- Willians — RM573314
+- Matheus — RM572385
+- Felipe — RM564288
+
 ## 📌 Sobre o projeto
 
 Projeto desenvolvido para a Fase 5 do curso de Inteligência Artificial da FIAP.
