@@ -104,3 +104,10 @@ Portanto, mesmo apresentando um custo mensal superior, a região de São Paulo �
 Vídeo demonstrativo da Entrega 1 – Machine Learning:
 
 [▶️ Assistir ao vídeo no YouTube](https://youtu.be/E4BoE-xwCW0)
+
+
+## 🎥 Vídeo Demonstrativo – Entrega 2
+
+Vídeo demonstrativo da Entrega 2 – Computação em Nuvem AWS:
+
+[▶️ Assistir ao vídeo no YouTube](https://youtu.be/lCIoKgJg3go)
